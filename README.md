@@ -33,6 +33,8 @@ In terms of roles for this presentation:
 - **Justin**
   - Wrap-up and conclusion
 
+  Each member took notes highlighting what they learned along with their knowledge in depth. This can be found in the INDIVIDUAL FILES folder in this repo. 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Walkthrough/Video links:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
