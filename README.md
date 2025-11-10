@@ -4,6 +4,8 @@ Course: CSCI-331 DATABASE SYSTEMS
 
 331 PRESENTATION ABOUT FULLY QUALIFIED DOMAINS AND TABLE NAMES WITH TAXONOMY AND DATA GOVERNANCE 
 
+Video link and other information can be found in the bottom: 
+
 
 ---------------------------------------------------------------
 Goal and Motivation:
