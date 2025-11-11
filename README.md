@@ -38,5 +38,5 @@ In terms of roles for this presentation:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Walkthrough/Video links:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Our video presentation can be found here: 
+Our video presentation can be found here: https://www.youtube.com/watch?v=v_09sujYYws
 
